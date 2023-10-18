@@ -1,0 +1,34 @@
+body{
+    background-color: #a4715b;
+    font-family:'Courier New', Courier, monospace;
+}
+h2{
+    color:aqua;
+    font-size: 100pt;
+    text-align: center;
+}
+h1{
+    font-size: 40pt;
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;
+}
+nav{
+    border: 2px solid blueviolet;
+}
+li{
+    height: 25px;
+}
+a{
+    text-align: underline;
+    border: solid blue;
+}
+#skip{
+    text-transform: uppercase;
+}
+#thumbnail{
+    border: 20px solid blue;
+    padding: 20px;
+    margin: auto;
+    width: 250px;
+    display: block;
+    border-radius: 25px;
+}
